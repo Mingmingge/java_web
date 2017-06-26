@@ -4,11 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Hellow word</title>
+<title>hello word</title>
 </head>
 <body>
-<%
-out.print("Hellow word");
+<%    
+
+out.print("Hello Word!");
 %>
 </body>
 </html>
