@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 public class Example {
 
 	public static void main(String[] args) {
-		JFrame jFrame_1 = new JFrame("撤销窗口");
+		JFrame jFrame_1 = new JFrame("撤销");
 		jFrame_1.setBounds(60, 500, 188, 108);
 		jFrame_1.setBackground(new Color(0, 0, 0));
 		jFrame_1.setVisible(true);
